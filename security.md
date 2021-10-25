@@ -1,0 +1,1 @@
+Firstly, I have created secrets.txt file. Then I gave my username and password in that file. Then i have created .gitignore file and mentioned secrets.txt file inside .gitignore file. Then I have added and pushed into repository. 
